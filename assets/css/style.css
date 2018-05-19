@@ -112,10 +112,13 @@ img {
 
 footer {
     border-top: solid;
-    border-top-width: 6px;
+    border-top-width: 8px;
     border-top-color: #4aaaa5;
     background-color: black;
-    margin-bottom: -50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 #row_1 {
